@@ -1,0 +1,1 @@
+In this project, it creates two portfolios utilizing smart beta methodology and optimization. I will evaluate the performance of the portfolios by calculating tracking errors. It also calculates the turnover of the portfolio and finds the best timing to rebalance. It will come up with the portfolio weights by analyzing fundamental data, and by quadratic programming

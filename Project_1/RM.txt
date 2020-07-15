@@ -1,0 +1,1 @@
+In this project implement a momentum trading strategy and test if it has the potential to be profitable. It works with historical data of a given stock universe and generates a trading signal based on a momentum indicator. Then compute the signal and produce projected returns. Finally, perform a statistical test to conclude if there is alpha in the signal.

@@ -1,0 +1,1 @@
+In this project, I research and generate multiple alpha factors. Then will apply various techniques to evaluate the performance of the alpha factors and learn to pick the best ones for this portfolio. I also formulate an advanced portfolio optimization problem by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures

@@ -1,0 +1,1 @@
+In this project, I will build deep neural networks to process and interpret news data. It will also play with different ways of embedding words into vectors. Then construct and train LSTM networks for sentiment classification. Finally, it will run backtests and apply the models to news data for signal generation.

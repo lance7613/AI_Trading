@@ -1,0 +1,1 @@
+In this project, I will apply advanced techniques to select and combine the factors that have generated from both alternative data and market data. I combined signals on a random forest for enhanced alpha. While implementing this, it has to solve the problem of overlapping samples. For the dataset, I will be using the end of the day from Quotemedia and sector data from Sharada.

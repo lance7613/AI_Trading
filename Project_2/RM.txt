@@ -1,0 +1,1 @@
+In this project implement and evaluate a breakout signal. It runs statistical tests to test for normality and to find alpha. Then find outliers and evaluate the eﬀect that filtered outliers could have on the trading signal. It runs various scenarios of the model with or without the outliers and decides if the outliers should be kept or not.
